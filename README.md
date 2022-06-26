@@ -1,8 +1,8 @@
-# Мое решение задачи SCAN classification challenge
+# Решение задачи SCAN classification challenge
 
 [Ссылка на kaggle](https://www.kaggle.com/competitions/scan-classification-challange)
 
-## Мое решение
+## Краткое резюме
 В рамках соревнования я сделал модель с помощью библиотеки [hugging face](https://huggingface.co/) и открытой [модели сбербанка](https://huggingface.co/sberbank-ai/sbert_large_nlu_ru), которая позволила предсказать правильный класс новости по ее тексту с точностью **0.92787**
 
 Также в рамках решения, я пробовал различные варианты: 
